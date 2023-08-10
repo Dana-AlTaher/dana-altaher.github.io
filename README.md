@@ -1,2 +1,2 @@
-# danaaltaher.github.io
+# dana-altaher.github.io
 Personal Portfolio Website
